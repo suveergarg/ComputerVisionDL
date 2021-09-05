@@ -1,0 +1,15 @@
+[submodule "PoseReconstruction"]
+	path = PoseReconstruction
+	url = https://github.com/suveergarg/PoseReconstruction
+[submodule "VAE-GAN"]
+	path = VAE-GAN
+	url = https://github.com/suveergarg/VAE-GAN
+[submodule "Faster-RCNN"]
+	path = Faster-RCNN
+	url = https://github.com/suveergarg/Faster-RCNN
+[submodule "SOLO"]
+	path = SOLO
+	url = https://github.com/suveergarg/SOLO
+[submodule "YOLO"]
+	path = YOLO
+	url = https://github.com/suveergarg/YOLO
