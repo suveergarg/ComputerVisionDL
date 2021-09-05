@@ -1,2 +1,2 @@
 # ComputerVisionDL
-Repository to Contain Computer Vision Deep Learning Projects
+Repository contains Computer Vision Deep Learning Projects
